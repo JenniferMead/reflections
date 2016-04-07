@@ -13,3 +13,11 @@ Branches would help when I am trying to make changes to a project that I am unsu
 
 How do the diagrams help you visualize the branch structure?
 The allow you to see branches in a way thats easy to understand.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The commits are joined in the same branch and organized by time stamp.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merges are easier for the user and save time but cause a lot of potential problems
+becuase git doesn't always know what the user wants.
